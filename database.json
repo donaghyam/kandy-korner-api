@@ -83,14 +83,6 @@
       "manager": false,
       "fullTime": false,
       "hourlyRate": 7
-    },
-    {
-      "name": "Adam Donaghy",
-      "locationId": "2",
-      "manager": false,
-      "fullTime": false,
-      "hourlyRate": "2",
-      "id": 3
     }
   ],
   "locations": [
@@ -215,6 +207,30 @@
       "locationId": 1,
       "dateCompleted": "",
       "id": 7
+    },
+    {
+      "customerId": 11,
+      "employeeId": 1,
+      "productId": 4,
+      "locationId": 1,
+      "dateCompleted": "",
+      "id": 8
+    },
+    {
+      "customerId": 11,
+      "employeeId": 1,
+      "productId": 2,
+      "locationId": 1,
+      "dateCompleted": "",
+      "id": 9
+    },
+    {
+      "customerId": 11,
+      "employeeId": 1,
+      "productId": 5,
+      "locationId": 1,
+      "dateCompleted": "",
+      "id": 10
     }
   ]
 }
